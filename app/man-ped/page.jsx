@@ -1,5 +1,5 @@
-import Image from 'next/image'
-import foto from '../../public/man-ped.jpeg'
+import Image from "next/image"
+import foto from "../../public/man-ped.jpeg"
 
 export default function manped() {
   return (

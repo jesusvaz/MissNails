@@ -1,5 +1,5 @@
-import Image from 'next/image'
-import foto from '../../public/naill-repair.jpeg'
+import Image from "next/image"
+import foto from "../../public/naill-repair.jpeg"
 
 export default function page() {
   return (

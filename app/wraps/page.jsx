@@ -1,5 +1,5 @@
-import Image from 'next/image'
-import foto from '../../public/wraps.jpeg'
+import Image from "next/image"
+import foto from "../../public/wraps.jpeg"
 
 export default function wraps() {
   return (

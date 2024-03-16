@@ -1,5 +1,5 @@
-import Image from 'next/image'
-import foto from '../../public/nail-treatments.jpeg'
+import Image from "next/image"
+import foto from "../../public/nail-treatments.jpeg"
 
 export default function treatments() {
   return (

@@ -1,5 +1,5 @@
-import Image from 'next/image'
-import foto from '../../public/polish.jpeg'
+import Image from "next/image"
+import foto from "../../public/polish.jpeg"
 
 export default function polish() {
   return (
