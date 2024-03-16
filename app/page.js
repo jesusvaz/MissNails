@@ -1,6 +1,6 @@
 import Image from "next/image";
-import Link from 'next/link'
-import qpiLogo from '../public/qpi.jpeg'
+import Link from "next/link"
+import qpiLogo from "../public/qpi.jpeg"
 
 export default function Home() {
   return (

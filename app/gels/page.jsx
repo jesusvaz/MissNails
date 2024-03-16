@@ -1,5 +1,5 @@
-import Image from 'next/image'
-import foto from '../../public/gels.jpeg'
+import Image from "next/image"
+import foto from "../../public/gels.jpeg"
 
 export default function gels() {
   return (
